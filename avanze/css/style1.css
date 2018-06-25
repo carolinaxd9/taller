@@ -1,0 +1,38 @@
+@charset "utf-8";
+.image {
+ 
+position: relative;
+/*superposicion capa 0*/
+ z-index: 0;
+ height: 100%;
+	width:100%;
+
+ 
+}
+ 
+h2 {
+ 
+position: absolute;
+ 
+top: 0px;
+ 
+left: 3;
+ 
+width: 100%;
+
+
+ 
+}
+h2 span {
+ 
+color: black;
+ 
+font: bold 15px/9px Helvetica, Sans-Serif;
+ 
+letter-spacing: -1px;
+ 
+
+ 
+padding: 4px;
+ 
+}
